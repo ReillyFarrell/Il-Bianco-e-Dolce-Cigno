@@ -1,7 +1,7 @@
 // **************************
 // FUNCTIONS AND VARIABLES
 // **************************
-// Il Bianco e Dolce Cigno (2015)
+// Il Bianco e Dolce Cigno Hello (2015)
 
 
 // Array to store recorded loop durations
